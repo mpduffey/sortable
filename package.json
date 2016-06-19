@@ -1,12 +1,20 @@
 {
   "name": "sortable",
   "version": "1.0.0",
-  "description": "",
   "main": "sortable.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "Mike Duffey <mpduffey@gmail.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mpduffey/sortable.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mpduffey/sortable/issues"
+  },
+  "homepage": "https://github.com/mpduffey/sortable#readme",
+  "description": ""
 }
