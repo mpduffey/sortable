@@ -1,5 +1,5 @@
 import {Directive, ElementRef, AfterContentInit, ChangeDetectionStrategy, Input, Output, EventEmitter} from '@angular/core';
-import {ObjectService} from 'services/objects.service';
+import {ObjectService} from 'services/object-service/objects.service';
 
 @Directive({
 	selector:					'[sortable]',
